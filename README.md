@@ -1,11 +1,15 @@
-# Gazebo ROS Demos
+# Gazebo ROS Simulation
+
+Original Author:
 
 * Author: Dave Coleman <davetcoleman@gmail.com>
 * License: GNU General Public License, version 3 (GPL-3.0)
 
 Example robots and code for interfacing Gazebo with ROS
 
-## Tutorials
+Edited to be suitable for the required course.
+
+<!-- ## Tutorials
 
 [ROS URDF](http://gazebosim.org/tutorials/?tut=ros_urdf)
 
@@ -29,4 +33,4 @@ Example of Moving Joints:
 
 ## Develop and Contribute
 
-We welcome any contributions to this repo and encourage you to fork the project then send pull requests back to this parent repo. Thanks for your help!
+We welcome any contributions to this repo and encourage you to fork the project then send pull requests back to this parent repo. Thanks for your help! -->
